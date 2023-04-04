@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-restapi-vercel",
+  "version": "1.0.0",
+  "description": "node express deployment testing",
+  "main": "app.js",
+  "engines": {
+    "node": "18.7.0"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
